@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    margin-left: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.telegram-logo{
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin-bottom: -10px;
+}
+.instagram-logo{
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin-bottom: 10px;
+}
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}

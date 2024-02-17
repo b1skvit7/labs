@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.page-container {
+	max-width: 980px;
+	margin: 20px auto 0;
+}
+.left-side {
+	width: 25%;
+	background-color: #3a5e90;
+    padding-left: 15px;
+    float: left;
+}
+.avatar {
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;
+    margin: 20px 0 20px 5px;
+}
+.image {
+	display: block;
+	width: 100%;
+}
+.left-side h2{
+    border-bottom: 2px solid white;
+    color: white;
+}
+.left-side h4{
+    color: white;
+    margin: 5px 0 0 0;
+}
+.left-side p{
+    color: white;
+}
+.right-side {
+	width: calc(75% - 6px);
+    padding-left: 15px;
+    display: inline-block;
+}
+.right-side h1{
+    font-size: 30px;
+    margin: 20px 0 20px 0;
+}
+.right-side h2{
+    margin: 20px 0 20px 0;
+}
+.line{
+    border: 1px solid gray;
+}
+.right-side-text{
+    font-size: 20px;
+    margin: 15px 0 20px 0;
+}
+.right-side ol{
+    margin: 20px 0 20px 20px;
+}
+.right-side li{
+    margin-top: 5px;
+    font-size: 20px;
+}
+footer{
+    width: 100%;
+}
+.footer-left-column{
+    display: inline-block;
+
+}
+.right-side h3{
+    font-size: 23px;
+    display: block;
+    margin-right: 20px;
+}
+.telegram-logo{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 5px 10px 0 0;
+}
+.instagram-logo{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 5px 10px 0 0;
+}
+.footer-right-column{
+    display: inline-block;
+    float: left;
+    margin-right: 40px;
+}
+.footer-text{
+    font-size: 20px;
+}

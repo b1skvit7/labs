@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    margin-left: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    border: 1px solid black;
+}
+.first-line{
+    background: #A9A9A9;
+}
+.second-line{
+    background: #8FBC8F;
+}
+p{
+    font-size: 25px;
+}
+td{
+    padding-left: 13px;
+}
+.first-table{
+    margin-bottom: 5px;
+}
+.about{
+    display: block;
+}
